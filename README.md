@@ -2,7 +2,7 @@
 
 > 🚀 Complete automation workflow for Next.js + Vercel + GitHub Actions with comprehensive Product Requirements Document templates
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/yourusername/nextjs-automation-workflow)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/mrmoe28/nextjs-automation-workflow)
 [![Vercel](https://img.shields.io/badge/Deploy-Vercel-black)](https://vercel.com)
 [![Next.js](https://img.shields.io/badge/Next.js-14-blueviolet)](https://nextjs.org)
 
@@ -32,7 +32,7 @@ This repository contains a comprehensive automation workflow for building Next.j
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/nextjs-automation-workflow.git
+git clone https://github.com/mrmoe28/nextjs-automation-workflow.git
 cd nextjs-automation-workflow
 ```
 
@@ -224,9 +224,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/nextjs-automation-workflow/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/nextjs-automation-workflow/discussions)
-- **Email**: your-email@example.com
+- **Issues**: [GitHub Issues](https://github.com/mrmoe28/nextjs-automation-workflow/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/mrmoe28/nextjs-automation-workflow/discussions)
 
 ---
 
@@ -234,7 +233,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ```bash
 # Clone and setup
-git clone https://github.com/yourusername/nextjs-automation-workflow.git
+git clone https://github.com/mrmoe28/nextjs-automation-workflow.git
 cd nextjs-automation-workflow
 
 # View documentation
