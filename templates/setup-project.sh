@@ -1,5 +1,5 @@
-#!/bin/bash
-
+!/bin/bash
+x
 # Next.js + Vercel + GitHub Automated Setup Script
 # This script automates the entire setup process for a Next.js project
 # with Vercel deployment and GitHub Actions CI/CD
@@ -161,6 +161,5 @@ echo ""
 echo -e "${BLUE}🚀 Next steps:${NC}"
 echo "1. Start development: npm run dev"
 echo "2. View deployment: Check your Vercel dashboard"
-echo "3. Monitor deployments: npm run monitor (if available)"
-echo ""
-echo -e "${GREEN}Happy coding! 🎉${NC}"
+echo "3. Monitor deployments: npm run monitor (if available)ho ""
+xxecho -e "${GREEN}Happy coding! 🎉${NC}"
