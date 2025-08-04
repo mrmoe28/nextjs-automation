@@ -1,4 +1,4 @@
-# Automation Workflow for Next.js + Vercel + GitHub Actions
+# Next.js Automation
 
 ## Overview
 This document captures all issues encountered during setup and their solutions to ensure smooth automation for future builds.

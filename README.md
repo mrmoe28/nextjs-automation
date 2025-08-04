@@ -1,8 +1,8 @@
-# Next.js Automation Workflow & PRD Templates
+# Next.js Automation
 
 > 🚀 Complete automation workflow for Next.js + Vercel + GitHub Actions with comprehensive Product Requirements Document templates
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/mrmoe28/nextjs-automation-workflow)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/mrmoe28/nextjs-automation)
 [![Vercel](https://img.shields.io/badge/Deploy-Vercel-black)](https://vercel.com)
 [![Next.js](https://img.shields.io/badge/Next.js-14-blueviolet)](https://nextjs.org)
 
@@ -32,13 +32,13 @@ This repository contains a comprehensive automation workflow for building Next.j
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mrmoe28/nextjs-automation-workflow.git
-cd nextjs-automation-workflow
+git clone https://github.com/mrmoe28/nextjs-automation.git
+cd nextjs-automation
 ```
 
 ### 2. View the Documentation
 
-The main documentation is in [`automation-workflow.md`](./automation-workflow.md). It contains:
+The main documentation is in [`nextjs-automation.md`](./nextjs-automation.md). It contains:
 
 - Common issues and their solutions
 - PRD templates with real examples
@@ -62,11 +62,11 @@ chmod +x templates/setup-project.sh
 
 | Section | Description | Link |
 |---------|-------------|------|
-| **PRD Templates** | Product Requirements Document templates and examples | [View PRD Section](./automation-workflow.md#product-requirements-document-prd-template) |
-| **Common Issues** | Solutions to frequent setup problems | [View Issues](./automation-workflow.md#common-issues-and-solutions) |
-| **Automation Script** | Complete automated setup script | [View Script](./automation-workflow.md#automated-setup-script) |
-| **Security Practices** | Secure credential management | [View Security](./automation-workflow.md#security-best-practices) |
-| **Troubleshooting** | Comprehensive troubleshooting checklist | [View Troubleshooting](./automation-workflow.md#enhanced-troubleshooting-checklist) |
+| **PRD Templates** | Product Requirements Document templates and examples | [View PRD Section](./nextjs-automation.md#product-requirements-document-prd-template) |
+| **Common Issues** | Solutions to frequent setup problems | [View Issues](./nextjs-automation.md#common-issues-and-solutions) |
+| **Automation Script** | Complete automated setup script | [View Script](./nextjs-automation.md#automated-setup-script) |
+| **Security Practices** | Secure credential management | [View Security](./nextjs-automation.md#security-best-practices) |
+| **Troubleshooting** | Comprehensive troubleshooting checklist | [View Troubleshooting](./nextjs-automation.md#enhanced-troubleshooting-checklist) |
 
 ### Key Features Covered
 
@@ -199,7 +199,7 @@ gh secret set VERCEL_TOKEN --body "token" --repo owner/repo
 | "Vercel link failed" | Use: `vercel --yes --name project-name` |
 | "Build failed" | Use `npm ci` instead of `npm install` |
 
-For detailed troubleshooting, see the [full guide](./automation-workflow.md#enhanced-troubleshooting-checklist).
+For detailed troubleshooting, see the [full guide](./nextjs-automation.md#enhanced-troubleshooting-checklist).
 
 ## 🤝 Contributing
 
@@ -224,8 +224,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/mrmoe28/nextjs-automation-workflow/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/mrmoe28/nextjs-automation-workflow/discussions)
+- **Issues**: [GitHub Issues](https://github.com/mrmoe28/nextjs-automation/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/mrmoe28/nextjs-automation/discussions)
 
 ---
 
@@ -233,11 +233,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ```bash
 # Clone and setup
-git clone https://github.com/mrmoe28/nextjs-automation-workflow.git
-cd nextjs-automation-workflow
+git clone https://github.com/mrmoe28/nextjs-automation.git
+cd nextjs-automation
 
 # View documentation
-cat automation-workflow.md
+cat nextjs-automation.md
 
 # Generate a PRD
 node templates/generate-prd.js
@@ -251,7 +251,7 @@ gh --version && vercel --version && node --version
 
 ## Next Steps
 
-1. 📖 Read the [complete documentation](./automation-workflow.md)
+1. 📖 Read the [complete documentation](./nextjs-automation.md)
 2. 🎯 Create your PRD using the templates
 3. 🚀 Run the automated setup script
 4. 🎉 Deploy your first app!
