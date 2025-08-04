@@ -1,4 +1,5 @@
 # Next.js Automation
+💎 Quick Command to start: claude-nextjs my-new-project 💎
 
 > 🚀 Complete automation workflow for Next.js + Vercel + GitHub Actions with comprehensive Product Requirements Document templates
 
